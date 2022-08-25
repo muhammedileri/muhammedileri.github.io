@@ -39,6 +39,7 @@ author_profile: true
 
 * Morphology (~65 students), Inst: Mine Nakipoğlu [syllabus](https://registration.boun.edu.tr/scripts/instructor/coursedescriptions/2020-2021-2/LING20201.PDF?raw=true)
 
+* Introduction to Language and Linguistics I (~70 students), Inst: Pavel Logačev [syllabus](https://moodle.boun.edu.tr/pluginfile.php/1005688/mod_resource/content/1/syllabus.pdf?raw=true)
 
 ### Assisting a class at the Turkish Language and Culture Program at Boğaziçi Uni. **(Summer 2022)**
 
