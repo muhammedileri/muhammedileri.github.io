@@ -7,15 +7,11 @@ author_profile: true
 
 ## Research Interests
 
-***Morpho-syntax***: Case, Agreement, Nominalization, Control ***Morpho-phonology***: Allomorphy, Analogy, Rule productivity ***Semantics***: Plurality, Genericity ***Psycholinguistics***: Lexical/Sentence Processing
+***Morpho-syntax***: Case, Agreement, Nominalization, Control ***Morpho-phonology***: Allomorphy, Analogy, Rule productivity ***Semantics***: Plurality, Genericity ***Psycholinguistics***: Lexical Processing, Sentence Processing
 
 ## Talks
 
-### Upcoming
-
-A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sept 30-Oct 2. Online.
-
-### Presented
+A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sept 30-Oct 2. Online. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/handout_WAFL16.pdf?raw=true)
 
 The role of analogy in a paradigm gap in Turkish. [International Morphology Meeting](http://www.nytud.hu/imm20/program.html). *Analogy in Inflection Workshop*. Budapest. Sept 1-4. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/IMM20_slides.pdf?raw=true)
 
