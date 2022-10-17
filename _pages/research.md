@@ -15,7 +15,7 @@ A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sep
 
 The role of analogy in a paradigm gap in Turkish. [International Morphology Meeting](http://www.nytud.hu/imm20/program.html). *Analogy in Inflection Workshop*. Budapest. Sept 1-4. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/IMM20_slides.pdf?raw=true)
 
-The absence of conclusive evidence causes a gap in Turkish. [Linguistics and English Language Postgraduate Conference](https://pgc.lel.ed.ac.uk/?p=programme). University of Edinburgh. 6-8 June. (*Cancelled* due to receiving UK visa "one day late")
+The absence of conclusive evidence causes a gap in Turkish. [Linguistics and English Language Postgraduate Conference](https://pgc.lel.ed.ac.uk/?p=programme). University of Edinburgh. 6-8 June. (*Cancelled* due to a delay in visa processing)
 
 An instance of Paradigm Cell Filling Problem in Turkish. *8th Annual Symposium on Language Research at UC Davis*. 27-28 May 2022. Online. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/LanguageCluster_Slides.pdf?raw=true)
 
