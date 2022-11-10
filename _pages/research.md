@@ -7,19 +7,16 @@ author_profile: true
 
 ## Research Interests
 
-***Morpho-syntax***: Case, Agreement, Nominalization, Control
-
-***Morpho-phonology***: Allomorphy, Paradigm gaps, Analogy, Rule productivity
-
+***Morphosyntax***: Case, Agreement, Nominalization, Control
+***Morphophonology***: Allomorphy, Paradigm gaps, Analogy, Rule productivity
 ***Semantics***: Plurality, Genericity
-
 ***Psycholinguistics***: Lexical Processing, Sentence Processing
 
 ## Talks
 
 A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sept 30-Oct 2. Online. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/handout_WAFL16.pdf?raw=true)
 
-The role of analogy in a paradigm gap in Turkish. [International Morphology Meeting](http://www.nytud.hu/imm20/program.html). *Analogy in Inflection Workshop*. Budapest. Sept 1-4. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/IMM20_slides.pdf?raw=true)
+The role of analogy in a paradigm gap in Turkish. [20th International Morphology Meeting](http://www.nytud.hu/imm20/program.html). *Analogy in Inflection Workshop*. Budapest. Sept 1-4. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/IMM20_slides.pdf?raw=true)
 
 The absence of conclusive evidence causes a gap in Turkish. [Linguistics and English Language Postgraduate Conference](https://pgc.lel.ed.ac.uk/?p=programme). University of Edinburgh. 6-8 June. (*Cancelled* due to a delay in visa processing)
 
