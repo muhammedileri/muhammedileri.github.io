@@ -8,8 +8,11 @@ author_profile: true
 ## Research Interests
 
 ***Morpho-syntax***: Case, Agreement, Nominalization, Control
+
 ***Morpho-phonology***: Allomorphy, Paradigm gaps, Analogy, Rule productivity
+
 ***Semantics***: Plurality, Genericity
+
 ***Psycholinguistics***: Lexical Processing, Sentence Processing
 
 ## Talks
