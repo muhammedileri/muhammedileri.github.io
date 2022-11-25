@@ -7,12 +7,14 @@ author_profile: true
 
 ## Research Interests
 
-***Morphosyntax***: Case, Agreement, Nominalization, Control;
-***Morphophonology***: Allomorphy, Paradigm gaps, Analogy, Rule productivity;
+***Morphosyntax***: Case, Agreement, Adjacency restrictions, Nominalization, Control;
+***Morphophonology***: Allomorphy, Syncretism, Reduplication, Paradigm gaps, Analogy, Rule productivity, Haplology;
 ***Semantics***: Plurality, Genericity;
 ***Psycholinguistics***: Lexical Processing, Sentence Processing.
 
 ## Talks
+
+### Refereed
 
 A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sept 30-Oct 2. Online. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/handout_WAFL16.pdf?raw=true)
 
@@ -22,11 +24,15 @@ The absence of conclusive evidence causes a gap in Turkish. [Linguistics and Eng
 
 An instance of Paradigm Cell Filling Problem in Turkish. *8th Annual Symposium on Language Research at UC Davis*. 27-28 May 2022. Online. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/LanguageCluster_Slides.pdf?raw=true)
 
-DM Analysis of A Paradigm Gap in Turkish. *46. Generative Grammatik im Süden. Universität Stuttgart*. 19-21 May 2022. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/GGS46_Slides.pdf?raw=true)
-
 A Paradigm Gap in Turkish. *7th Workshop on Turkic and Languages in Contact with Turkic*. UConn. 18-19 Feb 2022. Online. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/TU%2B7_slides.pdf?raw=true) (with *Ömer Demirok*)
 
-## Posters
+### Non-refereed
+
+DM Analysis of A Paradigm Gap in Turkish. *46. Generative Grammatik im Süden. Universität Stuttgart*. 19-21 May 2022. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/GGS46_Slides.pdf?raw=true)
+
+A Nanosyntactic Analysis of -AsI Desideratives in Turkish. *Boğaziçi Nanosyntax Group (BouNano)*. 25 April 2022. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/BouNano_handout.pdf?raw=true)
+
+## Posters (refereed)
 
 A Morpho-syntactic Analysis of Ungrammatical Associative Plurals in Turkish. *Student Conference on Linguistics 2022*. Boğaziçi University. May 27-28 2022. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/SCOL_Poster_Handout.pdf?raw=true)
 
