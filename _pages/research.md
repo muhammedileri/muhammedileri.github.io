@@ -14,7 +14,7 @@ author_profile: true
 
 ## Papers
 
-Muhammed İleri & Ömer Demirok. (resubmitted). A paradigm gap in Turkish. Submitted to the *[Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)]*(https://journals.linguisticsociety.org/proceedings/index.php/tu). [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
+Muhammed İleri & Ömer Demirok. (resubmitted). A paradigm gap in Turkish. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*](https://journals.linguisticsociety.org/proceedings/index.php/tu). [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
 
 Muhammed İleri. (in prep). A ban on adjacency in Turkish. [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20ban%20on%20adjacency%20in%20Turkish.pdf?raw=true)
 
