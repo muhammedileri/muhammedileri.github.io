@@ -14,13 +14,21 @@ author_profile: true
 
 ## Papers
 
-Muhammed İleri & Ömer Demirok. (resubmitted). A paradigm gap in Turkish. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*](https://journals.linguisticsociety.org/proceedings/index.php/tu). [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
+Haplology and local dislocation in Turkish: Evidence from associative plural constructions. (2023) [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+8)*] (https://journals.linguisticsociety.org/proceedings/index.php/tu).(with Ömer Demirok) [pdf] (https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5579/5246)
 
-Muhammed İleri. (in prep). A ban on adjacency in Turkish. [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20ban%20on%20adjacency%20in%20Turkish.pdf?raw=true)
+A paradigm gap in Turkish. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*](https://journals.linguisticsociety.org/proceedings/index.php/tu).(with Ömer Demirok) [pdf (https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
+
+## Unpublished Manuscripts
+
+A ban on adjacency in Turkish. (2022). (unpublished ms) [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20ban%20on%20adjacency%20in%20Turkish.pdf?raw=true)
+
+A paradigm gap in Turkish. (2023). MA thesis. Boğaziçi University.[pdf](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=S2eMu1TIwY_v4mYv58xAr-fVq4QAPg9tZWTJAXV6JVsxD_05mJ5XSS5DcT2p-ELg)
 
 ## Talks
 
 ### Refereed
+
+Haplology and local dislocation in Turkish: Evidence from associative plurals. *8th Workshop on Turkic and Languages in Contact with Turkic*. Harvard. 4-5 March 2023.
 
 A ban on adjacency in Turkish. *16th Workshop of Altaic Formal Linguistics*. Sept 30-Oct 2. Online. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/handout_WAFL16.pdf?raw=true)
 
