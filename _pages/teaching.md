@@ -9,7 +9,13 @@ author_profile: true
 
 *Responsibilities*: Preparing and grading assignments (~4 in a semester depending on the course), running weekly problem sessions, holding office-hours, proof-reading exam material, proctoring in exams, running the Moodle page of the course etc.
 
-**Fall 2022**
+**Spring 2023**
+
+* Morphology (80 students), Inst: Mine Nakipoğlu [syllabus](https://registration.boun.edu.tr/scripts/instructor/coursedescriptions/2022-2023-2/LING20201.PDF)
+  
+* Syntax & Semantics of Modern Turkish (68 students), Inst: Balkız Öztürk [syllabus](https://registration.boun.edu.tr/scripts/instructor/coursedescriptions/2022-2023-2/LING31401.DOCX)
+
+* **Fall 2022**
 
 * Introduction to Language and Linguistics I (75 students), Inst: Mine Nakipoğlu [syllabus](https://registration.boun.edu.tr/scripts/instructor/coursedescriptions/2022-2023-1/LING10101.PDF?raw=true)
 
