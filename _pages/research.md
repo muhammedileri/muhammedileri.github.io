@@ -16,11 +16,11 @@ author_profile: true
 
 Haplology and local dislocation in Turkish: Evidence from associative plural constructions. (2023) [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+8)*](https://journals.linguisticsociety.org/proceedings/index.php/tu). [pdf](https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5579/5246)
 
-A paradigm gap in Turkish. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*](https://journals.linguisticsociety.org/proceedings/index.php/tu).(with Ömer Demirok) [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
+A paradigm gap in Turkish. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*](https://journals.linguisticsociety.org/proceedings/index.php/tu).(with Ömer Demirok). [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20Paradigm%20Gap%20in%20Turkish.pdf?raw=true)
 
 ## Unpublished Manuscripts
 
-A ban on adjacency in Turkish. (2022). (unpublished ms) [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20ban%20on%20adjacency%20in%20Turkish.pdf?raw=true)
+A ban on adjacency in Turkish. (2022). (Unpublished Ms). [pdf](https://github.com/muhammedileri/muhammedileri.github.io/raw/master/files/A%20ban%20on%20adjacency%20in%20Turkish.pdf?raw=true)
 
 A paradigm gap in Turkish. (2023). MA thesis. Boğaziçi University.[pdf](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=S2eMu1TIwY_v4mYv58xAr-fVq4QAPg9tZWTJAXV6JVsxD_05mJ5XSS5DcT2p-ELg)
 
