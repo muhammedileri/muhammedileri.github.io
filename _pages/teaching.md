@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 --- 
 
-### Assisted Courses at the Dept. of Linguistics at Boğaziçi Uni. **(Jan 2020 - present)**
+### Assisted Courses at the Dept. of Linguistics at Boğaziçi Uni. **(2020 - 2023)**
 
 *Responsibilities*: Preparing and grading assignments (~4 in a semester depending on the course), running weekly problem sessions, holding office-hours, proof-reading exam material, proctoring in exams, running the Moodle page of the course etc.
 
