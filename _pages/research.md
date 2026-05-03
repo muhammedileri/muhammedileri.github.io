@@ -12,7 +12,15 @@ author_profile: true
 ***Semantics***: Plurality, Genericity;
 ***Psycholinguistics***: Lexical Processing, Sentence Processing.
 
-## Papers
+### Articles & Manuscripts in Progress
+
+Postsyntactic operations in Turkish possessives. (In progress).
+
+Stylistic Coherence and Lexical Constraints in Turkish. (In progress). *Please ask me for a draft if you would like to see the current version.*
+
+Vowel lowering and identity in Turkish emphatic reduplication. (In progress). *Please ask me for a draft if you would like to see the current version.*
+
+## Proceedings (refereed)
 
 Haplology and local dislocation in Turkish: Evidence from associative plural constructions. 2023. In the [*Proceedings of the Workshop on Turkic and Languages in Contact with Turkic (Tu+8)*](https://journals.linguisticsociety.org/proceedings/index.php/tu). [pdf](https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5579/5246)
 
@@ -28,6 +36,12 @@ A ban on adjacency in Turkish. 2022. (Unpublished Ms). [pdf](https://github.com/
 
 ### Refereed
 
+Stylistic Coherence and Lexical Constraints in Turkish. *Annual Meeting of Chicago Linguistic Society (CLS 62)*. University of Chicago. April 2026.
+
+Vowel lowering and identity in Turkish emphatic reduplication. *22nd International Conference on Turkish Linguistics*. 9 Eylul University. 4-6 September 2025.
+
+Patterns of /e/-Lowering in Turkish Emphatic Reduplication. *10th Workshop on Turkic and Languages in Contact with Turkic (Tu+10)*. University of Southern California. 1-2 March 2025.
+
 Overabundance, defectivity, and periphrastic strategies: Evidence from Turkic. *"Re-evaluating the relationship between defectivity and overabundance" Workshop, SLE2023*. Athens. 30 August 2023. (with *Ömer Demirok*)
 
 Haplology and local dislocation in Turkish: Evidence from associative plurals. *8th Workshop on Turkic and Languages in Contact with Turkic*. Harvard. 4-5 March 2023.
@@ -42,13 +56,21 @@ An instance of Paradigm Cell Filling Problem in Turkish. *8th Annual Symposium o
 
 A Paradigm Gap in Turkish. *7th Workshop on Turkic and Languages in Contact with Turkic*. UConn. 18-19 Feb 2022. Online. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/TU%2B7_slides.pdf?raw=true) (with *Ömer Demirok*)
 
+### Invited
+
+Morphological productivity. *Ling 203 (Inst: Andrea Beltrama)*. University of Delaware. [cite_start]September 2025. [cite: 45]
+
 ### Non-refereed
 
 DM Analysis of A Paradigm Gap in Turkish. *46. Generative Grammatik im Süden. Universität Stuttgart*. 19-21 May 2022. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/GGS46_Slides.pdf?raw=true)
 
 A Nanosyntactic Analysis of -AsI Desideratives in Turkish. *Boğaziçi Nanosyntax Group (BouNano)*. 25 April 2022. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/BouNano_handout.pdf?raw=true)
 
-## Posters (refereed)
+## Posters
+
+Postsyntactic operations in Turkish. *Boston Morphology Workshop*. Boston University. May 2026.
+
+Testing stylistic congruence of a vowel alternation in Turkish. *New Ways of Analyzing Variation (NWAV) 53*. University of Michigan. 5-7 November 2025.
 
 A Morpho-syntactic Analysis of Ungrammatical Associative Plurals in Turkish. *Student Conference on Linguistics 2022*. Boğaziçi University. May 27-28 2022. [handout](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/SCOL_Poster_Handout.pdf?raw=true)
 
