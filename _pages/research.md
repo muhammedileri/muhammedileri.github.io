@@ -33,11 +33,11 @@ A ban on adjacency in Turkish. 2022. (Unpublished Ms). [pdf](https://github.com/
 
 ### Talks (refereed)
 
-Stylistic Coherence and Lexical Constraints in Turkish. *Annual Meeting of Chicago Linguistic Society (CLS 62)*. University of Chicago. April 2026.
+Stylistic Coherence and Lexical Constraints in Turkish. *The 62nd Annual Meeting of Chicago Linguistic Society (CLS 62)*. University of Chicago. 17-19 April 2026. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/CLS_slides_ileri.pdf?raw=true)
 
-Vowel lowering and identity in Turkish emphatic reduplication. *22nd International Conference on Turkish Linguistics*. 9 Eylul University. 4-6 September 2025.
+Vowel lowering and identity in Turkish emphatic reduplication. *22nd International Conference on Turkish Linguistics*. 9 Eylul University. 4-6 September 2025. [slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/ICTL22_slides.pdf?raw=true)
 
-Patterns of /e/-Lowering in Turkish Emphatic Reduplication. *10th Workshop on Turkic and Languages in Contact with Turkic (Tu+10)*. University of Southern California. 1-2 March 2025.
+Patterns of /e/-Lowering in Turkish Emphatic Reduplication. *10th Workshop on Turkic and Languages in Contact with Turkic (Tu+10)*. University of Southern California. 1-2 March 2025.[slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/Tu10_slides_ileri.pdf?raw=true)
 
 Overabundance, defectivity, and periphrastic strategies: Evidence from Turkic. *"Re-evaluating the relationship between defectivity and overabundance" Workshop, SLE2023*. Athens. 30 August 2023. (with *Ömer Demirok*)
 
@@ -55,7 +55,7 @@ A Paradigm Gap in Turkish. *7th Workshop on Turkic and Languages in Contact with
 
 ### Invited talks
 
-Morphological productivity. *Ling 203 (Inst: Andrea Beltrama)*. University of Delaware. [cite_start]September 2025. [cite: 45]
+Morphological productivity: What do paradigm gaps tell us? *Ling 203 (Inst: Andrea Beltrama)*. University of Delaware. 29 Sep 2025.[slides](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/Guest_lecture_UDelaware.pdf?raw=true)
 
 ### Non-refereed talks
 
