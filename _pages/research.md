@@ -7,10 +7,9 @@ author_profile: true
 
 ## Research Interests
 
-***Morphosyntax***: Case, Agreement, Adjacency restrictions, Nominalization, Control;
+***Morphosyntax***: Case, Agreement, Nominalization, Control;
 ***Morphophonology***: Allomorphy, Syncretism, Reduplication, Paradigm gaps, Analogy, Rule productivity, Haplology;
-***Semantics***: Plurality, Genericity;
-***Psycholinguistics***: Lexical Processing, Sentence Processing.
+***Psycholinguistics***: Language Acquisition.
 
 ### Articles & Manuscripts in Progress
 
