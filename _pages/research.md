@@ -15,7 +15,7 @@ author_profile: true
 
 Postsyntactic operations in Turkish possessives. (In progress).
 
-Stylistic Coherence and Lexical Constraints in Turkish. (In progress). *Please ask me for a draft if you would like to see the current version.*
+Stylistic Coherence and Lexical Constraints in Turkish. (In progress). [*Working draft*](https://github.com/muhammedileri/muhammedileri.github.io/blob/master/files/Social_meaning_of_vowel_variants_in_Turkish.pdf?raw=true)
 
 Vowel lowering and identity in Turkish emphatic reduplication. (In progress). *Please ask me for a draft if you would like to see the current version.*
 
